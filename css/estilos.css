@@ -1,0 +1,15 @@
+body {background-color: lavender;}
+.grape{background-color: thistle;}
+.pink{background-color: pink;}
+h1{text-decoration: underline;font-size: 40px;}
+h2{text-decoration: underline;font-size: 40px;}
+h3{text-decoration: underline;font-size: 25px;}
+h4{text-decoration: underline;font-size: 25px;}
+h5{text-align: center;font-size: 45px;position: absolute;left: 20%; top: 20%;}
+.imagen{width: 400px;height: 520px;margin-left: 480px;}
+.video {width: 600px; height: 350px;}
+li {font-size: 25px;}
+.mon{width: 1200px; height: 300px;}
+.container{background-image: url(montaña.jpg);background-position: center; background-repeat: no-repeat; background-size: cover;padding: 40px;color: white;}
+.txt{font-size: 45px; text-transform: uppercase;}
+.container{position: relative;}
